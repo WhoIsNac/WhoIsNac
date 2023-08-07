@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working in a blockchain start-up
+- 🌱 I’m currently learning about blockchain engineering
+- 💬 Ask me about blockchain, cryptocurrency or trading
 
 
 ## 🚀 About Me
